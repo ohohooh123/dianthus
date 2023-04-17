@@ -12,7 +12,7 @@
 ---
 # Our goal
 
-이미지 삽입
+![프로필 이미지](./cat.jpg)
 <br/><br/><br/>
 ---
 # Language
